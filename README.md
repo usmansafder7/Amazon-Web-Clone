@@ -1,4 +1,4 @@
-# AMAZON CLONE
+# Amazon's Web Clone
 This is a clone of popular e-commmerce website **Amazon**.
 I have created it with **React** in frontend,  **Node and Express** for backend and **MongoDB** for storing data.
 
@@ -40,7 +40,3 @@ Login Credentials:
 <img src="./screenshots/ss2.png" alt=""/>
 <br>
 <img src="./screenshots/ss3.png" alt=""/>
-<br>
-<img src="./screenshots/ss5.png" alt=""/>
-<br>
-<img src="./screenshots/ss6.png" alt=""/>
